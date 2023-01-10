@@ -1,5 +1,5 @@
 # Newton's Roundabout - Monte Carlo simulation. 
-MC simulation with 10^6 trials on the Newton's Roundabout game.
+MC simulation with 10^6 trials for the Newton's Roundabout game.
 <p></p>
 Results:
 <p></p>
