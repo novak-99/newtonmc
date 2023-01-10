@@ -1,2 +1,7 @@
-# newtonmc
-Monte Carlo simulation of the Newton's Roundabout game. 
+# Newton's Roundabout - Monte Carlo simulation. 
+MC simulation with 10^6 trials on the Newton's Roundabout game.
+<p></p>
+Results:
+<p></p>
+Mean: -1.2525
+Var: 360.856
